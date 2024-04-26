@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nahidsami
 - 👀 I’m interested in Artifial Intelligence and ML...
-- 🌱 I’m currently learning .ML
+- 🌱 I’m pursuing my PhD in Computer Science
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me ...
 
